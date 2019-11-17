@@ -8,5 +8,8 @@ attr_reader :name
      @name = name 
      @mood = "nervous"
      @owner = owner
+     @@all << self
    end
+   def self.all 
+     @@all
 end
