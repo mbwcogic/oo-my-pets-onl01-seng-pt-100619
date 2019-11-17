@@ -1,4 +1,5 @@
 class Dog
 
-def intiall
+   def intiall
+   end
 end
