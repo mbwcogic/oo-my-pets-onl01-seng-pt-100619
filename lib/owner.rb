@@ -48,7 +48,7 @@ class Owner
   end
   
   def sell_pets
-    pets = self.
+    
   end
   
   def list_pets
